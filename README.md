@@ -87,3 +87,12 @@ https://gist.github.com/anupkumar-siuc
 
 <!--all links-->
 [Anups_Github_link]: https://gist.github.com/anupkumar-siuc
+
+### Table:
+| Col 1 | Col 2 | Col 3 |
+| -------- | ------- | -------- |
+| row 1 | sdsds | sdasdads |
+| row 2 | ddsds | dddsdads |
+
+
+
