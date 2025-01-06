@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is test 1.
 
 this is add in local repo.
@@ -8,3 +9,6 @@ HSC 2013
 BSc 2019 //was 2018, fixed
 MS  NULL
 PhD 2024 //added in feature#2
+=======
+Goodbuy to feature1 to master merge conflict.
+>>>>>>> f03aab1f3b2eb303aab3bfff9e7376ffbdea645f
